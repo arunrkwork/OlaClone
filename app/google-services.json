@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "953996877152",
+    "firebase_url": "https://olaclone-bc5e3.firebaseio.com",
+    "project_id": "olaclone-bc5e3",
+    "storage_bucket": "olaclone-bc5e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953996877152:android:da168863a7335a8c",
+        "android_client_info": {
+          "package_name": "com.taxi.olaclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953996877152-2pehoapi9h0vkn4obciqun5cqdb674vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxi.olaclone",
+            "certificate_hash": "c427fda855736ac912d25b9f029be4413e1c84b2"
+          }
+        },
+        {
+          "client_id": "953996877152-s39e4mneas2euq73i6air324o7olkf68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGWFO_6UG54Qh0Cf-hLF8CgfvsaCuAACY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953996877152-s39e4mneas2euq73i6air324o7olkf68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
